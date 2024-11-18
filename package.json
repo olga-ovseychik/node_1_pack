@@ -1,6 +1,6 @@
 {
   "name": "e_rpn_vm",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "This Node.js application provides an implementation of an evaluation of an arithmetic expression in a Reverse Polish Notation.",
   "repository": {
     "type": "git",
